@@ -1,0 +1,10 @@
+s_id,s_name,s_age,dept_id,dept_id,dept_name,dept_head
+101,John,30,10,10,CDS,"Ram Prasad"
+106,Neha,28,10,10,CDS,"Ram Prasad"
+102,Mary,45,20,20,CDA,"Nithish Kumar"
+103,Ravi,50,20,20,CDA,"Nithish Kumar"
+107,Arjun,16,20,20,CDA,"Nithish Kumar"
+104,Anita,40,30,30,CDE,"kishore kamath"
+108,Kiran,32,40,40,AIE,"bipin roy"
+109,Pooja,28,50,50,CS,"lohith reddy"
+NULL,NULL,NULL,NULL,60,IOT,"Sarvesh Yadav"
